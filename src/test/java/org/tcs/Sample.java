@@ -20,6 +20,15 @@ System.out.println("India");
 	private void australia() {
 		System.out.println("Australia");
 			}
+	private void tamilnadu() {
+		System.out.println("Taminadu");
+			}
+			private void kerala() {
+		System.out.println("Kerala");
+			}
+			private void andhra() {
+		System.out.println("Andhra");
+			}
 	
 	
 	
