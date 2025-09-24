@@ -11,6 +11,16 @@ System.out.println("Test 1");
 	private void test3() {
 		System.out.println("Test 3");
 			}
+	private void tamilnadu() {
+System.out.println("Taminadu");
+	}
+	private void kerala() {
+System.out.println("Kerala");
+	}
+	private void andhra() {
+System.out.println("Andhra");
+	}
+	
 	
 	
 }
